@@ -1,0 +1,1 @@
+Você pode acessar em [learn.nvidia](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-15+V1)

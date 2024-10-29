@@ -1,0 +1,1 @@
+Você pode acessar em [Stanford Online](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8)

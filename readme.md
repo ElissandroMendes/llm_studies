@@ -8,6 +8,7 @@ Com a falta de conteúdos de qualidade em português, irei começar a desmembrar
 Organizei por fonte/empresa dispobibilizando o curso, e nome dos cursos na pasta abaixo:
 
 ```bash 
+├── books
 ├── databricks\
 │   ├── generative_ai_fundamentals
 │   ├── large_language_models_llms_application_through_production
@@ -20,12 +21,17 @@ Organizei por fonte/empresa dispobibilizando o curso, e nome dos cursos na pasta
 │   │   ├── course_examples
 │   ├── preprocessing_unstructured_data_4_llm_apps\
 │   │   ├── course_examples
+├── github\
+├── ├── mlabonne_llm-course-main
 ├── google\
 │   ├── materials\
 ├── langchain\
 │   ├── lang_graph
 │   │   ├── materials
 │   │   ├── notes
+│   │   ├── workshop\
+│   │   │   ├── hf_tools
+│   │   │   ├──langgraph_tools 
 ├── medium_articles\
 ├── my_articles_pt-br\
 ├── nvidia\
@@ -36,7 +42,10 @@ Organizei por fonte/empresa dispobibilizando o curso, e nome dos cursos na pasta
 │   │   ├── materials
 │   │   ├── workshop\
 ├── stanford\
-│   ├── course_examples
-│   ├── materials
-│   ├── notes
+│   ├── CS236-deep-generative-models
+│   │   ├── course_examples
+│   │   ├── materials
+│   │   ├── notes
 ```
+
+Cada pasta contém um readme com o link do curso, exceto pela pasta `books`, que contém livros sobre o assunto

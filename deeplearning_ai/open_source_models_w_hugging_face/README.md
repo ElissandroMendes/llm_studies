@@ -1,0 +1,1 @@
+Você pode acessar em [DeepLearning.ai](https://learn.deeplearning.ai/courses/open-source-models-hugging-face/lesson/1/introduction)

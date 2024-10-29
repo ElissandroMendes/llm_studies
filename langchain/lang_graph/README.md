@@ -1,0 +1,1 @@
+Você pode acessar em [academy.langchain](https://academy.langchain.com/courses/take/intro-to-langgraph/lessons/58238107-course-overview)

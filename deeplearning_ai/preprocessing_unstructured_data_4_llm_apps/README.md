@@ -1,0 +1,1 @@
+Você pode acessar em [DeepLearning.ai](https://learn.deeplearning.ai/courses/preprocessing-unstructured-data-for-llm-applications/lesson/1/introduction)
